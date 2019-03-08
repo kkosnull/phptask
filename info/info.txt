@@ -1,0 +1,3 @@
+The form has double action from the toggler, it can work as insert data or search data
+The form posts data by ajax call to insert.php or search.php and the response is printed out back to the form.
+A mysql database is needed, name it task, and import the sql to have a table created.
